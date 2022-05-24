@@ -1,0 +1,30 @@
+simple-card{
+    padding: 10;
+}
+/* input[type=text]{
+        float: right;
+        padding: 6px;
+        margin-top: 8px;
+        margin-right: 16px;
+        border: turquoise;
+        font-size: 17px;
+    
+} */
+h2{
+    color: #5480da;
+    padding-left: 40px;
+}
+button{
+    margin-left: 40px;
+    padding: 5px;
+    background-color: #b8b8ff;
+    font-family: monospace;
+    font-style: oblique;
+    border-radius: 12px;
+}
+
+img{
+    border-radius: 10%;
+    margin-left: 40px;
+    padding-top: 10px;
+}

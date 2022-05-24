@@ -1,0 +1,8 @@
+input[type=text]{
+    margin-left: 40px;
+}
+input[type=submit]{
+    float: inline-end;
+    margin-left: 10px;
+    padding-left: 10px;
+}

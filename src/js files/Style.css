@@ -1,0 +1,35 @@
+body {
+  padding: 0;
+  margin: 0;
+  /* background: #5a189a;
+  background-image:url('/src/images/purp.jpg');  */
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  opacity: 0.9;
+}
+h1{
+  color: aquamarine;
+  padding: 10px;
+}
+h3{
+  color: aquamarine;
+  padding:10px;
+}
+p {
+  padding-left: 10px;
+  padding-top: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: aquamarine;
+ }
+ table{
+   padding: 10px;
+   border-collapse: separate;
+   
+ }
+ th, td{
+   color: #FCEBB6;
+   padding: 9px;
+   border: 1px solid whitesmoke;
+ }
